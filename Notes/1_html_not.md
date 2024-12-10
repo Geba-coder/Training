@@ -12,15 +12,52 @@
 - `<a>`
 - `target="_blank"> `
 - `input`
-- `span`
+- `  <form>`
+- ` <dl>`
+-   `<dt>`
+- `<dd>`
+- `<blockquote>`
+- `<code>`          ????
+- `<q>`
+- `<address>`
+- `<<pre> >`
+- `<<var>>`
+- `<kbd>>`
+- `<samp>>`
+- `<<time>>`
+- `<span>`
+- `<>`
+- `<>`
+- `<>`
+- `<>`
+- `<>`
+- `<>`
+## Metod
+Отправка данных формы
+- action
+- method
+- GET
+-  POST
+- enctype
 
-disabled="disabled"
-target="_blank"> 
-disabled
+Заголовок: <header>.
+Навигационное меню: <nav>.
+Основное содержимое: <main>, с различными подразделами содержимого, представленными элементами <article>, <section> и <div>.
+Боковая панель: <aside>, обычно располагается внутри <main>.
+Нижний колонтитул: <footer>.
 
+
+
+# atribut
+- disabled="disabled"
+- target="_blank"> 
+- disabled
+- cite
+- datetime
     Микро фичи:
     <h1 id ="index"> --- способ найти на странице  <a href="#index"></a>.
     mailto: -- отправить сообщения по почте, плох в защите, нужно придумывть как защиться 
+-
 ## Элементы
 Вложенные элементы
 Блочные  
