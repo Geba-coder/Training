@@ -52,7 +52,8 @@
 ## Удалённые репозитории
 - `git remote add origin <url-репозитория>`             # Добавить удалённый репозиторий с URL
 - `git remote remove origin`                            # Удалить удалённый репозиторий
+- ` git restore .`         
+- ` git reset --hard HEAD`  
 
 
- 
 
